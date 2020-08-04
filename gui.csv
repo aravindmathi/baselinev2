@@ -1,0 +1,38 @@
+SID,Type,command
+LD1,,-user=JOBADMIN -system=LD1 -pw=login@2017x -client=000 -maxgui
+LQ2,,-user=JOBADMIN -system=LQ2 -pw=login@2017x -client=000 -maxgui
+LS3,,-user=JOBADMIN -system=LS3 -pw=login@2017x -client=000 -maxgui
+AD1,,-user=JOBADMIN -system=AD1 -pw=login@2017x -client=200 -maxgui
+SP1,,"-system=SP1 -user=ARMATHI -snc_name=p/secude:CN=sapdcina.adc.corpintra.net, O=Daimler AG, C=DE"
+SQ2,,"-system=SQ2 -user=ARMATHI -snc_name=p/secude:CN=sadcb128.adc.corpintra.net, O=Daimler AG, C=DE"
+ST2,,"-system=ST2 -user=ARMATHI -snc_name=p/secude:CN=sadcb616.adc.corpintra.net, O=Daimler AG, C=DE"
+V01,,"-system=V01 -user=ARMATHI  -snc_name=""p/secude:(CN)=A128_s_SAP-V01"""
+Q01,,"-system=Q01 -user=ARMATHI  -snc_name=""p/secude:CN=A128_s_SAP-Q01"""
+P01,,"-system=P01 -user=ARMATHI  -snc_name=""p/secude:CN=A128_s_SAP-P01"""
+SAR,,-user=BASISADMIN -system=QAR -pw=Start2017# -client=000 -maxgui
+QAR,,-user=BASISADMIN -system=SAR -pw=Start2017# -client=000 -maxgui
+DAR,,-user=BASISADMIN -system=DAR -pw=Start2017# -client=300 -maxgui
+AQ2,,-user=JOBADMIN -system=AQ2 -pw=login@2017x -client=000 -maxgui
+FD1,,-user=JOBADMIN -system=FD1 -pw=login@2017x -client=900 -maxgui
+FQ2,,-user=ARMATHI -system=FQ2 -pw=Login@2019x -client=900 -maxgui
+BWD,,"-system=BWD -user=ARMATHI  -snc_name=""p/secude:(CN)=A128_s_SAP-BWD"""
+BWQ,,"-system=BWQ -user=ARMATHI  -snc_name=""p/secude:(CN)=A128_s_SAP-BWQ"""
+LP3,App,-user=JOBADMIN -pw=login@2016x -client=000 -maxgui
+LP3,,-user=JOBADMIN -pw=login@2016x -client=000 -maxgui
+AP3,App,-user=AUTH_ADMIN -pw=login@2017x -client=000 -maxgui
+AP3,,-user=AUTH_ADMIN -pw=login@2017x -client=000 -maxgui
+LS3,,-user=JOBADMIN -system=LS3 -pw=login@2017x -client=000 -maxgui
+LQ3,,-user=JOBADMIN -system=LQ3 -pw=login@2017x -client=000 -maxgui
+FD1,,-user=JOBADMIN -system=FD1 -pw=login@2017x -client=900 -maxgui
+FQ2,,-user=ARMATHI -system=FQ2 -pw=Login@2020x -client=900 -maxgui
+FG3,,-user=ARMATHI -system=FG3 -pw=login@2018x -client=900 -maxgui
+AQ2,,-user=JOBADMIN -system=AQ2 -pw=login@2017x -client=900 -maxgui
+PAR,,-user=BASISADMIN -system=PAR -pw=Start2017# -client=000 -maxgui
+BWP,,-user=DDIC -system=BWP -pw=Feb2017end# -client=000 -maxgui
+S4S,,-user=S4SDDIC -system=S4S -pw=Feb2017end# -client=000 -maxgui
+S4D,,-user=S4DDDIC -system=S4D -pw=Feb2017end# -client=000 -maxgui
+S4Q,,-user=S4QDDIC -system=S4Q -pw=Feb2017end# -client=000 -maxgui
+S4P,,-user=S4PDDIC -system=S4P -pw=Feb2017end# -client=000 -maxgui
+FRD,,-user=FRDDDIC -system=FRD -pw=Feb2017end# -client=000 -maxgui
+FRQ,,-user=FRQDDIC -system=FRQ -pw=Feb2017end# -client=100 -maxgui
+FRP,,-user=FRPDDIC -system=FRP -pw=Feb2017end# -client=100 -maxgui

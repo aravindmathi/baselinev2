@@ -1,0 +1,7 @@
+SID,url
+ABC,http://hostname.example.net:50000
+BBC,http://hostname2.example.net:50000
+EXM,http://hosntame3.example.net:50000
+MAR,http://marhost.example.com:50100
+YAR,https://yarhostname:50101
+AVI,https://avihostname.example.com:50301
